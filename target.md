@@ -2,9 +2,6 @@
 itemId: jaguar-target-id
 itemIsRelatedTo: capybara-source-id
 itemType: Software Item Spec
-Requirement type: Use case
-Test result: Pass
-Context: Clinical
 ---
 
 Jaguar!
