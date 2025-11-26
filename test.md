@@ -7,6 +7,7 @@ Requirement type: Use case
 Test result: Pass
 My extra field: Simple text content
 Context: Clinical
+Something Strange: Indeed!!
 ---
 
 Capybara!
