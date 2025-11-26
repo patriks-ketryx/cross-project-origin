@@ -1,10 +1,9 @@
 ---
-itemId: jaguar-target-id
-itemIsRelatedTo: capybara-source-id
-itemRelatesTo: capybara-source-id
+itemId: jaguar-id
+itemIsRelatedTo: capybara-id
 itemType: Software Item Spec
 ---
 
-Jaguar!!
+Jaguar!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Standing_jaguar.jpg" alt="jaguar" />

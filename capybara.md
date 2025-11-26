@@ -1,5 +1,5 @@
 ---
-itemId: capybara-source-id
+itemId: capybara-id
 itemType: Software Item Spec
 ---
 
