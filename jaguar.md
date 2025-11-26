@@ -1,8 +1,7 @@
 ---
 itemId: jaguar-id
-itemIsRelatedTo: capybara-id
-itemRelatesTo: capybara-id
 itemType: Software Item Spec
+itemIsRelatedTo: capybara-id
 ---
 
 Jaguar!
