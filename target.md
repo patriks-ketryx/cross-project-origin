@@ -1,6 +1,5 @@
 ---
 itemId: jaguar-target-id
-itemRelatesTo: capybara-source-id
 itemFulfills: capybara-source-id
 itemType: Software Item Spec
 Requirement type: Use case
