@@ -1,13 +1,10 @@
 ---
-itemId: capybara-origin-id
+itemId: capybara-source-id
 itemType: Software Item Spec
-itemFulfills: KP-42
-itemImplements: KP-43, KP-44
 Requirement type: Use case
 Test result: Pass
 My extra field: Simple text content
 Context: Clinical
-Something Strange: Indeed!!
 ---
 
 Capybara!
