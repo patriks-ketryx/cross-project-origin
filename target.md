@@ -1,6 +1,7 @@
 ---
 itemId: jaguar-target-id
 itemIsRelatedTo: capybara-source-id
+itemRelatesTo: capybara-source-id
 itemType: Software Item Spec
 ---
 
