@@ -1,7 +1,7 @@
 ---
-itemId: specs-item-system-traceability-widget-relation-editing
+itemId: id-jaguar-id
 itemType: Software Item Spec
-itemIsRelatedTo: specs-item-system-granular-item-editing
+itemIsRelatedTo: id-capybara-id
 ---
 
 Jaguar!

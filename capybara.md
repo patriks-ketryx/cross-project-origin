@@ -1,5 +1,5 @@
 ---
-itemId: specs-item-system-granular-item-editing
+itemId: id-capybara-id
 itemType: Software Item Spec
 ---
 
